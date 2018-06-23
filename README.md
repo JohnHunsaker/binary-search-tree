@@ -1,5 +1,5 @@
 # binary-search-tree
-Programmed a binary search tree from scratch, and created a hangman game to test it.
+Programmed a binary search tree class from scratch, and created a hangman game to test it.
 
 <br />
 <br />
